@@ -2,8 +2,6 @@
 HotKeySet('{F10}', '_ex')
 HotKeySet('{F9}', '_ScrQuit')
 
-;Udělat: Vybrat s W bounty hráče.
-
 ;639, 649, 0x393E3C - HONOR
 
 ;----- Global variables ----
